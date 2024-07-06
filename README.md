@@ -97,8 +97,14 @@
       <br>Bootstrap
     </td>
            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="icons/Gradle-Dark.svg" width="48" height="48" alt="Gradle" />
+      <br>Gradle
+             
+                   </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
       </td>
           <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
