@@ -1,6 +1,6 @@
 <h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-<h2 align="center"><samp>Hi 👋 I'm Sugith K</samp></h2>
+<h2 align="center"><samp>Hi 👋 I'm Hashiqali</samp></h2>
 <h3 align="center"><samp>A passionate software developer from India</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
@@ -9,9 +9,9 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
+<samp>- 📫 Reach me at https://www.linkedin.com/in/hashiq-ali-2b7300279/</samp>
 
-<samp>- 📫 Reach me at sugithkodappurath@gmail.com</samp>
+<samp>- 📫 Reach me at hashiqali3080@gmail.com</samp>
 
 <samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp>
 
