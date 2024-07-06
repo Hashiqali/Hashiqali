@@ -66,10 +66,6 @@
         <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
       <br>BLoC
     </td>
-   <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
-      <br>Riverpod
-    </td>
       <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
       <br>SQ Lite
