@@ -97,10 +97,9 @@
       <br>Bootstrap
     </td>
            <td align="center" width="100">
-        <img src="icons/Gradle-Dark.svg" width="48" height="48" alt="Gradle" />
-      <br>Gradle
-             
-                   </td>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="48" height="48" alt="Gradle" />
+      <br>Gradle   
+       </td>
           <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
