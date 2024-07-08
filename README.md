@@ -101,8 +101,8 @@
       <br>Bootstrap
        </td>
           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="MongoDB" />
+      <br>Nodejs
     </td>
       </td>
           <td align="center" width="100">
